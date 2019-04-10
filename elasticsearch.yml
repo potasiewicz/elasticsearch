@@ -1,0 +1,9 @@
+cluster.name: 'search_cluster'
+node.name: 'search_node_1'
+node.local: true
+
+network.host: 0.0.0.0
+bootstrap.mlockall: false
+
+http.max_content_length: 768mb
+
