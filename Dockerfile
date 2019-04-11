@@ -1,7 +1,7 @@
 # Elasticsearch
 # docker pull barnybug/elasticsearch
 FROM java:openjdk-7-jre
-MAINTAINER Barnaby Gray <barnaby@pickle.me.uk>
+MAINTAINER Pawel Potasiewicz <potasiewicz@gmail.com>
 
 ENV ES_VERSION 1.3.2
 
